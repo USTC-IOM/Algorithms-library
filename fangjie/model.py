@@ -5,7 +5,7 @@ import math
 
 class Model():
     def load_parameter(self,param_path):
-        param = np.load(param_path)
+        param = np.load(param_path,allow_pickle=True)
         return param['param'].tolist()
 
 
