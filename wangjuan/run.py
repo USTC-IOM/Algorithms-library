@@ -7,7 +7,7 @@ data_path: the path of raw path
 param_path: the path of parameters of model
 '''
 
-data_path =r'D:\PyCharm\源文件\研究生项目\Algorithm\wangjuan\wangjuan.csv'
+data_path =r'..\wangjuan\wangjuan.csv'
 model1_param =  'model1_param.npz'
 model2_param =  'model2_param.npz'
 data = data_process().forward(data_path)
