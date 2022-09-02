@@ -1,6 +1,6 @@
 # 产品再创新判别算法
 
-发明人：liuyang and chenwei
+发明人：liuyang 
 
 实验室：USTC-IOM Lab
 
